@@ -1,0 +1,2 @@
+const API_KEY="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"
+export default API_KEY
